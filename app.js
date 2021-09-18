@@ -1,1 +1,1 @@
-console('print me')
+console.log('print me valdo')
