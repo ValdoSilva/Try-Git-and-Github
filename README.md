@@ -1,2 +1,1 @@
-#MyApp
-This is my app 
+Try to understand git and github
